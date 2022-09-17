@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Driver Options
 There are a couple of driver options that can be passed as arguments when starting the driver container.
 
