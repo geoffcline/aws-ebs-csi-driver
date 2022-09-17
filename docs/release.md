@@ -1,4 +1,4 @@
-# Amazon Elastic Block Store (EBS) CSI driver Release Process
+# Release Process
 
 ## Choose the release version and release branch
 

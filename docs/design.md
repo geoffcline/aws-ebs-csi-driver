@@ -1,4 +1,4 @@
-# AWS EBS CSI Driver
+# Design
 ## Problems with current in-tree cloud provider
 ### Cache of used / free device names
 
