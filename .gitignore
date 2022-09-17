@@ -24,3 +24,5 @@ Vagrantfile
 
 #MacOS system files
 *.DS_Store
+
+site/

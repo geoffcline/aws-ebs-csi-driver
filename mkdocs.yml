@@ -1,0 +1,9 @@
+site_name: AWS EBS CSI Driver
+theme:
+  name: material
+  palette:
+    primary: deep orange
+repo_url: https://github.com/kubernetes-sigs/aws-ebs-csi-driver
+repo_name: kubernetes-sigs/aws-ebs-csi-driver
+extra_css:
+  - stylesheets/extra.css

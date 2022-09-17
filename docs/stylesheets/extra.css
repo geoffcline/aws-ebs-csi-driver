@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "<font>";
+    src: "...";
+  }
+
+:root > * {
+    --md-primary-fg-color:        #ff9900;
+    --md-primary-bg-color:  #232F3E;
+    --md-typeset-color: #232F3E;
+    --md-typeset-a-color: #003181;
+    --md-accent-fg-color: #003181;
+    --md-footer-fg-color: #FFFFFF;
+    --md-footer-bg-color: #232F3E;
+}  
